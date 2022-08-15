@@ -35,3 +35,4 @@ Final page is contact us through which we can contact them and  register any of 
 ![Screenshot (9)](https://user-images.githubusercontent.com/109727558/184640557-8061c491-25a9-4592-aaed-ec078c5a92d9.png)
 
 The link of the website:
+https://victorious-ocean-0112b3a10.1.azurestaticapps.net/
